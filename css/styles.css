@@ -5889,9 +5889,9 @@ a.close.disabled {
   align-items: center;
   justify-content: center;
   width: 15%;
-  color: #fff;
+  color: rgba(255, 255, 255, 0);
   text-align: center;
-  opacity: 0.5;
+  opacity: 0;
   transition: opacity 0.15s ease;
 }
 @media (prefers-reduced-motion: reduce) {
